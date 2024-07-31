@@ -33,7 +33,7 @@ I am currently working on two projects in blockchain witha past project in AI.
 2. [***Strategies***](https://app.satay.finance/products) - compositions of Blocks that facilitate multi-protocol yield generation
 3. [***Vaults***](https://app.satay.finance/vaults) - secure capital pools that optimize allocations to Blocks and Strategies to maximize yield
 
-## [Special Education ChatBot ](https://github.com/bennettdavisv1/special-ed-chat-bot): ***AI-powered chatbot that serves as a virtual special education teacher.***
+## [Special Education ChatBot ](https://github.com/bennettdavisv1/special-ed-chat-bot): ***AI-powered virtual special education teacher***
 
 <img src="ChatbotLogo.png" alt="ChatBotLogo" width="225" height="225">
 
