@@ -30,9 +30,14 @@ I am currently working on two projects in blockchain.
 2. [***Strategies***](https://app.satay.finance/products) - compositions of Blocks that facilitate multi-protocol yield generation
 3. [***Vaults***](https://app.satay.finance/vaults) - secure capital pools that optimize allocations to Blocks and Strategies to maximize yield
 
+## [**Special Education ChatBot**](https://github.com/bennettdavisv1/special-ed-chat-bot)
 
-<!-- ## [**HireMind**](https://www.linkedin.com/company/hiremind-llc/)
+***AI-powered chatbot that serves as a virtual special education teacher.***
 
-***A new approach to interviewing. AI powered interview preparation that improves your institution's recruiting training.***
+<img src="satay_logo.png" alt="Satay" width="225" height="225">
 
-![LLC](hire-mind.jpeg) -->
+
+1. [***Blocks***](https://app.satay.finance/blocks) - composable DeFi primitive operations through trusted third-party protocols
+2. [***Strategies***](https://app.satay.finance/products) - compositions of Blocks that facilitate multi-protocol yield generation
+3. [***Vaults***](https://app.satay.finance/vaults) - secure capital pools that optimize allocations to Blocks and Strategies to maximize yield
+
