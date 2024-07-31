@@ -23,7 +23,8 @@ I am currently working on two projects in blockchain.
 
 ***All-in-one DeFi aggregator for Movement offering three interconnected products:***
 
-![Satay](satay_logo.png)
+<img src="satay_logo.png" alt="Satay" width="225" height="225">
+
 
 1. [***Blocks***](https://app.satay.finance/blocks) - composable DeFi primitive operations through trusted third-party protocols
 2. [***Strategies***](https://app.satay.finance/products) - compositions of Blocks that facilitate multi-protocol yield generation
