@@ -23,11 +23,12 @@ I am currently working on two projects in blockchain.
 
 ***All-in-one DeFi aggregator for Movement offering three interconnected products:***
 
+![Satay](satay_logo.png)
+
 1. [***Blocks***](https://app.satay.finance/blocks) - composable DeFi primitive operations through trusted third-party protocols
 2. [***Strategies***](https://app.satay.finance/products) - compositions of Blocks that facilitate multi-protocol yield generation
 3. [***Vaults***](https://app.satay.finance/vaults) - secure capital pools that optimize allocations to Blocks and Strategies to maximize yield
 
-![Satay](https://github.com/jasonhedman/jasonhedman/blob/main/Satay.png?raw=true)
 
 <!-- ## [**HireMind**](https://www.linkedin.com/company/hiremind-llc/)
 
